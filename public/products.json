@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Kulkas 2 Pintu Panasonic",
+    "price": 3000000,
+    "description": "Kulkas 2 Pintu bermerk Panasonic dengan kualitas sedang",
+    "image": "Kulkas2Pintu_1.jpg"
+  },
+  {
+    "title": "Kulkas 2 Pintu Sharp",
+    "price": 3250000,
+    "description": "Kulkas 2 pintu dengan merk Sharp, Kulkas terbaik dikelas nya",
+    "image": "Kulkas2Pintu_2.jpg"
+  },
+  {
+    "title": "Kulkas 2 Pintu Sanken",
+    "price": 2750000,
+    "description": "Kulkas 2 pintu dengan merk Sanken dan harganya yang terjangkau",
+    "image": "Kulkas2Pintu_3.jpg"
+  },
+  {
+    "title": "Kulkas Mini Sanken",
+    "price": 1300000,
+    "description": "Kulkas mini merk Sanken kualitas bagus",
+    "image": "Kulkasmini1.jpg"
+  },
+  {
+    "title": "Kulkas Mini Gea",
+    "price": 1100000,
+    "description": "Kulkas mini merk Gea",
+    "image": "Kulkasmini2.jpg"
+  },
+  {
+    "title": "Kulkas mini 2 Pintu",
+    "price": 1200000,
+    "description": "Kulkas mini 2 pintu dengan harga terjangkau",
+    "image": "Kulkasmini3.jpg"
+  }
+]
